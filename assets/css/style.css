@@ -41,7 +41,7 @@
     padding: 15px 60px 15px;
     margin: 10px;
     text-align:  center;
-    border-radius: 10px;
+    border-radius: 30px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -54,6 +54,16 @@
 .btn-shp:hover{
     cursor: pointer;
     background-color: #bd1c00;
+}
+
+.btn-dark{
+    background-color: #353A40;
+    color: white;
+}
+
+.btn-dark:hover{
+    cursor: pointer;
+    background-color: #212429;
 }
 
 .btn-tkp{
@@ -72,6 +82,16 @@
 }
 
 .btn-lzd:hover{
+    cursor: pointer;
+    background-color: #0000ac;
+}
+
+.btn-ig{
+    background-color: #2a2afa;
+    color: white;
+}
+
+.btn-ig:hover{
     cursor: pointer;
     background-color: #0000ac;
 }
